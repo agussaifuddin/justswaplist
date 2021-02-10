@@ -1,0 +1,27 @@
+{
+   "name": "AFITA",
+   "logoURI": "https://coin.top/production/upload/logo/TJeuD9xrr5qp74SUZY6shQHwB8x6A6XLNe.png",
+   "timestamp": 1613009633585, #Update time in millisecond
+   "tokens": [{
+           "chainId": 1, #ChainId, which is currently 1
+           "address": "TJeuD9xrr5qp74SUZY6shQHwB8x6A6XLNe", #Token address
+           "name": "TokoAgus", #Token name
+           "symbol": "TA", #Token symbol
+           "decimals": 6, #Token decimals
+           "logoURI": "https://coin.top/production/upload/logo/TJeuD9xrr5qp74SUZY6shQHwB8x6A6XLNe.png"
+       },
+       {
+           "chainId": 1,
+           "address": "TVSZ8aWJyv2hEdb2XAjSrdLrTpxp2oMjy5",
+           "name": "Agus Finance",
+           "symbol": "AFI",
+           "decimals": 18,
+           "logoURI": "https://coin.top/production/upload/logo/TVSZ8aWJyv2hEdb2XAjSrdLrTpxp2oMjy5.png"
+       }
+   ],
+   "version": {
+       "major": 1,
+       "minor": 0,
+       "patch": 0
+   }
+}
